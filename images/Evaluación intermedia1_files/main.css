@@ -1,0 +1,27 @@
+.logo {
+    width:155px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+ 
+.list {
+    font-size: 16px;
+    color:#4a4a4a;
+
+}
+
+
+
+.section--title {
+
+    background-color: #3cdbc0;
+}
+
+
+.title {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
