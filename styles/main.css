@@ -50,6 +50,10 @@ header{
     top: 0;
     left: 0;
 }
+body{
+    margin:0;
+    padding:0;
+}
 .main--container{
     background-color: #3cdbc0;
     display: flex;   
